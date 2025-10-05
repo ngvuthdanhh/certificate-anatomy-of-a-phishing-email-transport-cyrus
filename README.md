@@ -1,9 +1,9 @@
 # 🛡️ Anatomy of a Phishing Email – Transport Cyrus
 
-![Course](https://img.shields.io/badge/Course-Anatomy%20of%20a%20Phishing%20Email-blue?style=flat-square&logo=protonmail)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)  
-![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion)  
-![Focus](https://img.shields.io/badge/Focus-Email%20Security%20%26%20Phishing-informational?style=flat-square&logo=gmail)  
+![Course](https://img.shields.io/badge/Course-Anatomy%20of%20a%20Phishing%20Email-blue?style=flat-square&logo=protonmail) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon) 
+![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion) 
+![Focus](https://img.shields.io/badge/Focus-Email%20Security%20%26%20Phishing-informational?style=flat-square&logo=gmail) 
 ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
 This repository contains **notes, labs, scripts, case studies, docs, extras, screenshots, and a certificate of attendance** for the *Anatomy of a Phishing Email – Transport Cyrus* program.  
@@ -68,7 +68,7 @@ The course focuses on **email transport, phishing techniques, spoofing, link/att
 
 ## 📜 Certificate
 
-🎓 [ngvu.thdanh-Anatomy-of-a-phishing-email-Transport-Certificate-of-attendance-CYRUS.pdf](./cert/ngvu.thdanh-Anatomy-of-a-phishing-email-Transport-Certificate-of-attendance-CYRUS.pdf)
+🎓 [Anatomy of a Phishing Email – Transport Cyrus](./cert/ngvu.thdanh-Anatomy-of-a-phishing-email-Transport-Certificate-of-attendance-CYRUS.pdf)
 
 
 ---
