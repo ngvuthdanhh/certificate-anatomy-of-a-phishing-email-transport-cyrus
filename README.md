@@ -67,8 +67,9 @@ The course focuses on **email transport, phishing techniques, spoofing, link/att
 ---
 
 ## 📜 Certificate
-🎓 `ngvu.thdanh-Anatomy-of-a-phishing-email-Transport-Certificate-of-attendance-CYRUS.pdf`  
-(placed under `cert/` as `ngvu.thdanh-Anatomy-of-a-phishing-email-Transport-Certificate-of-attendance-CYRUS.pdf`)
+
+🎓 [ngvu.thdanh-Anatomy-of-a-phishing-email-Transport-Certificate-of-attendance-CYRUS.pdf](./cert/ngvu.thdanh-Anatomy-of-a-phishing-email-Transport-Certificate-of-attendance-CYRUS.pdf)
+
 
 ---
 
