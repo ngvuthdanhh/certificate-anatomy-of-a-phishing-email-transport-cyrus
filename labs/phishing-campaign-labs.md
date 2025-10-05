@@ -46,4 +46,29 @@ This lab set guides students through the lifecycle of a phishing campaign analys
 **Deliverable:** `enrichment/enrichment-table.csv` and `enrichment/notes.md`.
 
 ## Lab 4 — Campaign Linking & Timeline
-1. Us
+1. Using timestamps from headers and enrichment data, construct a timeline of activity (first seen → last seen) for the campaign.
+2. Link messages to common infrastructure (shared domains, same IP, similar macro code, same tracking IDs).
+3. Plot a simple timeline (ASCII table or CSV for import into visualization tools).
+
+**Deliverable:** `campaign/timeline.csv` and `campaign/links.md` explaining linkage rationale.
+
+## Lab 5 — Reporting & Remediation Recommendations
+1. Produce a forensic report (max 3 pages) containing:
+   - Executive summary (1 paragraph)
+   - Technical findings (IOCs, TTPs)
+   - Timeline and linkage diagram
+   - Recommended mitigations and detection rules (YARA prototypes, spam filter hints)
+2. Optionally prepare a one-page briefing for non-technical stakeholders.
+
+**Deliverable:** `report/forensic-report.pdf` (or `.md`) and `report/exec-summary.md`.
+
+## Safety & Ethics
+- Never send or forward samples to uninvolved third parties.
+- Do not attempt to log into any credential harvesting pages; collect only HTML and static artifacts.
+- When using public services for enrichment, avoid uploading PII or any sensitive corporate data.
+
+## Grading / Assessment (suggested)
+- Collection completeness & evidence handling (25%)
+- Correct classification & triage rationale (20%)
+- Quality of enrichment & linkage (25%)
+- Clarity and usefulness of final report (30%)
