@@ -64,7 +64,6 @@ A curated list of tools, blogs, datasets, and practical resources for studying a
 - "Practical Malware Analysis" — for dynamic/static malware analysis techniques.
 - "The Art of Memory Forensics" — useful for advanced incident investigations.
 - Vendor whitepapers on email security (Proofpoint, Microsoft, Google, Cisco).
-
 ---
 
 ## Note on Responsible Use
